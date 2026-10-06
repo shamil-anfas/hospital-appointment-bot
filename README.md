@@ -162,8 +162,8 @@ Dynamic button lists are sent to the Telegram Bot API with an HTTP Request node,
 |     |     |
 | --- | --- |
 
-![Workflow](screenshots/workflow-overview.png
-| ![Departments](screenshots/telegram-departments.png) | |
+![Workflow](screenshots/workflow-overview.png)
+| ![Departments](screenshots/telegram-departments.png) |
 | ![Doctors, dates and slots](screenshots/telegram-doctors-dates-slots.png) | ![Booking confirmed](screenshots/telegram-booking-confirmed.png) |
 | ![AI routing](screenshots/telegram-ai-routing.png) |
 
