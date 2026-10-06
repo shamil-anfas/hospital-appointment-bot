@@ -1,0 +1,7 @@
+DoctorID,Name,Department,Days,StartTime,EndTime,SlotMinutes
+D1,Dr. A. Menon,Cardiology,Mon|Wed|Fri,10:00,14:00,20
+D2,Dr. S. Nair,Cardiology,Tue|Thu|Sat,10:00,14:00,20
+D3,Dr. R. Iyer,Dermatology,Mon|Tue|Wed|Thu|Fri,14:00,18:00,15
+D4,Dr. P. Das,Dermatology,Mon|Thu,09:00,13:00,15
+D5,Dr. K. Paul,Orthopedics,Tue|Fri,09:00,13:00,30
+D6,Dr. T. George,Orthopedics,Wed|Sat,15:00,19:00,30
